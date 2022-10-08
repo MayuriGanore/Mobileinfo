@@ -231,4 +231,13 @@
    "featurs":"https://www.gsmarena.com/realme_gt_master-11001.php",
    "purchase link":"https://www.amazon.in/Realme-Master-Luna-White-128/dp/B0BG4JN2F4/ref=sr_1_3?adgrpid=67907158731&ext_vrnc=hi&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb5FRElBbyd5hUw4LqfFFUlneHNsOUhmHETyT5QpYfhqVvOh5juxYHhoC7f8QAvD_BwE&hvadid=398059829938&hvdev=c&hvlocphy=9302376&hvnetw=g&hvqmt=b&hvrand=3013026453894925547&hvtargid=kwd-1395136546280&hydadcr=24535_1971383&keywords=realme+gt+5g+master+edition&qid=1664560326&qu=eyJxc2MiOiI0Ljk3IiwicXNhIjoiNC40OSIsInFzcCI6IjEuNTkifQ%3D%3D&sr=8-3"
    }  
+   
+  
+  {
+   "id":"39",
+   "company": "vivo",
+   "modle":"vivo Y12",
+   "featurs":"https://www.vivo.com/in/products/param/y12",
+   "purchase link":"https://www.amazon.in/Vivo-Aqua-Storage-Without-Offer/dp/B07PTLCBP5",
+   },
 
